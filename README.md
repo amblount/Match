@@ -9,9 +9,9 @@ Resident
 
 
 # Find Your Match
-Understand your players history, read their bio
-If you are a resident, find your attending
-If you are an attending, find yout resident
+1.Understand your players history, read their bio
+2.If you are a resident, find your attending
+3.If you are an attending, find yout resident
 
 # Clues
 The clues will help you determine Where to go next, if you are stuck you can ask for help!
